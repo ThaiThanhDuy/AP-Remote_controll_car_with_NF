@@ -60,7 +60,7 @@
 
 
 ### 🤖Authors 
-- [0h@y0](https://github.com/ThaiThanhDuy)
+- [0ᖺ@Ⴘ0](https://github.com/ThaiThanhDuy)
 
 ### 🧾License 
 - [MIT](./LICENSE)
