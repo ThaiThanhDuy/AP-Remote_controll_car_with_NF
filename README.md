@@ -2,8 +2,6 @@
 # Remote_controll_car_with_NF
 🆅🅴🆁🆂🅸🅾🅽 𝟭.𝟬
 
->[!tip] Callouts can have custom titles
-
 🔍Controll car by joystick with communicate NF {Radio}
 
 ---
