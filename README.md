@@ -1,6 +1,6 @@
 
 # Remote_controll_car_with_NF
-🆅🅴🆁🆂🅸🅾🅽:Ʋ 1.0
+🆅🅴🆁🆂🅸🅾🅽 1.0
 
 🔍Controll car by joystick with communicate NF {Radio}
 
