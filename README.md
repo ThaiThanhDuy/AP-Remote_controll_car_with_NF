@@ -68,5 +68,5 @@
 
 ### 📭Feedback 
 If you have any feedback, please reach out to us at just.electric.4.fun@gmail.com
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mldotnet.svg" width="100px" alt="ML.NET Logo"/>
 (ง ͡ᵔ ● ͡ᵔ)ง
