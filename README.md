@@ -27,7 +27,7 @@
 - Pin 18650
 #### 💾Software
 
-##### 👑Visual studio code  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="10px" alt="Visual_Studio_Code"/>
+##### 👑Visual studio code  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="20px" alt="Visual_Studio_Code"/>
 
 - [Platformio extension](https://platformio.org/) 
 
