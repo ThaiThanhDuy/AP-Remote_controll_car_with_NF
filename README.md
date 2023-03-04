@@ -27,6 +27,8 @@
 - Pin 18650
 #### 💾Software
 
+##### Arduino  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="15px" alt="Arduino"/>
+
 ##### Visual studio code  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="15px" alt="Visual_Studio_Code"/>
 
 - [Platformio extension](https://platformio.org/) 
