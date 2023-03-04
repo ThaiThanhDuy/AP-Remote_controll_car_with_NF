@@ -27,7 +27,7 @@
 - Pin 18650
 #### 💾Software
 
-#####  <img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/arduino_logo_icon.png" height="50" width="50px" alt="Arduino"/>
+<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/arduino_logo_icon.png" height="50" width="50px" alt="Arduino"/>
 #####  <img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/Visual_Studio_Code_logo_icon.png" height ="50" width="50px" alt="Visual_Studio_Code"/>
 #### [<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/platformIO_logo_icon.png" height ="50" width="50px" alt="Visual_Studio_Code"/>](https://platformio.org/) 
 
