@@ -28,7 +28,7 @@
 #### 💾Software
 
 ##### 👑Visual studio code
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" width="100px" alt="Visual_Studio_Code"/>
 - [Platformio extension](https://platformio.org/) 
 
 ##### 📚Library
@@ -68,5 +68,5 @@
 
 ### 📭Feedback 
 If you have any feedback, please reach out to us at just.electric.4.fun@gmail.com
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mldotnet.svg" width="100px" alt="ML.NET Logo"/>
+
 (ง ͡ᵔ ● ͡ᵔ)ง
