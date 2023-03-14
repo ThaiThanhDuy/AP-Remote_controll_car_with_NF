@@ -30,7 +30,7 @@
 [<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/arduino_logo_icon.png" height="40" width="40px" alt="Arduino"/>](https://www.arduino.cc/) [<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/Visual_Studio_Code_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>](https://code.visualstudio.com/) [<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/platformIO_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>](https://platformio.org/) 
 
 ##### ⌨️ Programming language
-[<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/c_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>](https://platformio.org/) 
+[<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/c_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>](https://en.wikipedia.org/wiki/C_(programming_language) 
 
 ##### 📚Library
 
