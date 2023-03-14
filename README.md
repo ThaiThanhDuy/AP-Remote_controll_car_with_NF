@@ -31,7 +31,7 @@
 
 ##### ⌨️ Programming language
 
-[<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/c_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>]
+<img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/c_logo_icon.png" height ="40" width="40px" alt="Visual_Studio_Code"/>
 
 ##### 📚Library
 
